@@ -1,0 +1,36 @@
+Github: Crear un repositorio github. Control de versiones
+
+Objetivos
+
+	Familiarizar a los estudiantes con el uso de Git y GitHub como herramientas de control de versiones y colaboración en proyectos de bioinformática.
+	Enseñar a los estudiantes a crear un repositorio en GitHub y gestionar sus archivos y carpetas.
+	Promover la colaboración y el trabajo en equipo a través de la creación de un repositorio compartido.
+	Fomentar la presentación y el intercambio de proyectos de bioinformática entre los estudiantes.
+
+Pautas de elaboración
+
+Para esta actividad necesitarás una computadora con acceso al sistema operativo UNIX (por ejemplo, Linux o macOS) o tener instalado un sistema que permita tener el terminal de bash en Windows (Gitbash, Cygwin).
+
+En el tema 5 de la asignatura explicamos el proceso para instalar Linux. Puedes acceder a través del siguiente enlace al vídeo Instalación de Linux.
+
+A continuación, proponemos los enlaces de Gitbash y Cygwin:
+https://gitforwindows.org/
+https://www.cygwin.com/install.html
+
+Actividades
+
+La finalidad de este taller es crear un repositorio de GitHub. Para ello puedes idear un proyecto de bioinformática. Por ejemplo, un proyecto que consista en analizar la expresión génica de un conjunto de muestras utilizando datos de secuenciación de ARN (RNA-Seq).
+
+Los pasos que seguir son:
+
+	Crea un repositorio en GitHub. Crea y accede a tu cuenta de GitHub y crea un nuevo repositorio. Proporciona una descripción clara del proyecto y elige una licencia apropiada, como MIT o GNU General Public License.
+	Crea una estructura de carpetas para organizar tu proyecto.
+	Realiza confirmaciones de los cambios.
+	Documenta tu proyecto. Crea un archivo README.md en la raíz de tu repositorio para proporcionar una descripción detallada del proyecto, incluyendo su propósito, objetivos, instrucciones de uso y cualquier información relevante. Puedes utilizar lenguaje Markdown para dar formato al archivo y agregar enlaces o imágenes.
+
+Puedes acceder a una página de lenguaje Markdown a través del siguiente enlace https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+ 
+Extensión y formato
+
+Los estudiantes deberán compartir el repositorio creado con el profesor.
