@@ -1,5 +1,10 @@
 # Repositorio para desarrollar el TP de Programación Científica de la Maestría de Bioinformática de UNIR
 
+## Miembros del grupo
+* Oriana Irina Batista Ceballos
+* Luis Fernando Johnson Pozo
+* Santiago Perez Lloret
+  
 ## Introducción
 El objetivo general del grupo es llevar a cabo la actividad práctica Nº 1 de la materia "Secuenciación y Ómicas" de la Maestría de Bioinformática UNIR.
 
