@@ -26,4 +26,4 @@ Los mismos son los siguientes:
 * Búsqueda del mismo gen/proteína en otros organismos.
 * Identificación correcta de los dominios proteicos de la secuencia desconocida.
 * Comparación con regiones conservadas en el alineamiento.
-El método utilizado para la solución de cada uno de los puntos previamente listados en conjunto con los resultados se subirá en la rama cuyo título es: Desarrollo de los puntos 6-10-Oriana-Batista  
+El método utilizado para la solución de cada uno de los puntos, previamente listados, en conjunto con los resultados se subirá en la rama cuyo título es: Desarrollo de los puntos 6-10-Oriana-Batista cuando se decida en que fecha se realizará la actividad. Adicionalmente, subiré algunas referencias bibliográficas que serán de utilidad para estos análisis. 
