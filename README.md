@@ -21,3 +21,13 @@ Además habrá una carpeta para compartir técnicas de metagenómica y otra con 
 
 ## Secuencia desconocida
 Se adicionó la secuencia que será utilizada para realizar los análisis que permitan el logro de los objetivos arriba listados. Esta secuencia tiene una totalidad de 4179 nucleótidos, los cuales deben ser utilizados, en su totalidad, en todos los análisis para evitar errores.
+
+## Desarrollo de los puntos 6-10 del TP
+Los mismos son los siguientes:
+* Comparación de la secuencia desconocida con diferentes bases de datos.
+* Justificación de los resultados obtenidos en la comparación.
+* Búsqueda del mismo gen/proteína en otros organismos.
+* Identificación correcta de los dominios proteicos de la secuencia desconocida.
+* Comparación con regiones conservadas en el alineamiento.
+
+El método utilizado para la solución de cada uno de los puntos, previamente listados, en conjunto con los resultados se subirá en la rama cuyo título es: Desarrollo de los puntos 6-10-Oriana-Batista cuando se decida en que fecha se realizará la actividad. Adicionalmente, se subieron algunas referencias bibliográficas que serán de utilidad para estos análisis, incluyendo los de metagenómica. 
