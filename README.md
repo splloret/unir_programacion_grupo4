@@ -19,5 +19,5 @@ El alumno debe ser capaz de:
 ## Otros usos del repositorio
 Además habrá una carpeta para compartir técnicas de metagenómica y otra con documentos sobre el TP actual de programación científica
 
-## Secuencia Desconocida
+## Secuencia desconocida
 Se adicionó la secuencia que será utilizada para realizar los análisis que permitan el logro de los objetivos arriba listados. Esta secuencia tiene una totalidad de 4179 nucleótidos, los cuales deben ser utilizados, en su totalidad, en todos los análisis para evitar errores.
