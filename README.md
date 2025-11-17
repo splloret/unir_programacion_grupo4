@@ -18,3 +18,12 @@ El alumno debe ser capaz de:
 
 ## Otros usos del repositorio
 Además habrá una carpeta para compartir técnicas de metagenómica y otra con documentos sobre el TP actual de programación científica
+
+## Desarrollo de los puntos 6-10 del TP
+Los mismos son los siguientes:
+* Comparación de la secuencia desconocida con diferentes bases de datos.
+* Justificación de los resultados obtenidos en la comparación.
+* Búsqueda del mismo gen/proteína en otros organismos.
+* Identificación correcta de los dominios proteicos de la secuencia desconocida.
+* Comparación con regiones conservadas en el alineamiento.
+El método utilizado para la solución de cada uno de los puntos previamente listados en conjunto con los resultados se subirá en la rama cuyo título es: Desarrollo de los puntos 6-10-Oriana-Batista  
