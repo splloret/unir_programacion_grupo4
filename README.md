@@ -22,6 +22,14 @@ Además habrá una carpeta para compartir técnicas de metagenómica y otra con 
 ## Secuencia desconocida
 Se adicionó la secuencia que será utilizada para realizar los análisis que permitan el logro de los objetivos arriba listados. Esta secuencia tiene una totalidad de 4179 nucleótidos, los cuales deben ser utilizados, en su totalidad, en todos los análisis para evitar errores.
 
+## Desarrollo de los puntos 1-5 del TP
+Los mismos son los siguientes:
+* Identificacion de marcos de lectura abierto en ambas hebras.
+* Seleccion del ORF correcto.
+* Justificacion de la seleccion.
+* Identificación del gen/proteina
+* Determinacion del organismo de origen.
+
 ## Desarrollo de los puntos 6-10 del TP
 Los mismos son los siguientes:
 * Comparación de la secuencia desconocida con diferentes bases de datos.
